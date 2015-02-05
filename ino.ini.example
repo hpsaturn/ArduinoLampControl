@@ -1,0 +1,3 @@
+board-model = atmega328
+#board-model = 644pa16m
+serial-port = /dev/ttyUSB0
